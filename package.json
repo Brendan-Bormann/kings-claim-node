@@ -1,0 +1,14 @@
+{
+  "name": "kings-claim-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "adventure.js",
+  "scripts": {
+    "test": "node testing/battle-test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.0.0"
+  }
+}
