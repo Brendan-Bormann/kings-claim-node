@@ -10,6 +10,8 @@ function hitCheck(attacker, defender) {
         damage: 0
     };
 
+    // combat update
+
     // Status response codes:
     //      0 = miss
     //      1 = hit
